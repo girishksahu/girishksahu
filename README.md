@@ -5,4 +5,4 @@ Currently I am exploring AI Data Science Landscape with extensive experience of 
 Please feel free to connect with me on
 [Linkedin](https://www.linkedin.com/in/girishsahu)
 
-Thanks.
+Thanks for exploring my github profile.
