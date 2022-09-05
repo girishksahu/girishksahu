@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Currently I am exploring Data Science and AI Landscape. I have total work experience of 26+ yrs. in technology industry with last 8+ yrs. as leadership role in project, people and product management. 
+Currently I am exploring Data Science and AI Landscape. I have total work experience of over 25+ yrs. in technology industry with last 8+ yrs. as leadership role in project, people and product management. 
 
 As of now I am working on Data Science Academic projects, Kaggle competition projects and Freelance project work.
 
