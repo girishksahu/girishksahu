@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Currently I am exploring Data Science and AI Landscape. I have total work experience of over 25+ yrs. in technology industry with last 8+ yrs. as leadership role in project, people and product management. 
-
 Please feel free to connect with me on
 [Linkedin](https://www.linkedin.com/in/girishsahu)
 
